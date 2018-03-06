@@ -40,3 +40,4 @@ function isPalindrome(str) {
 console.log(palindromeSwapper('arcecar')); // TRUE
 console.log(palindromeSwapper('racecar')); // TRUE
 console.log(palindromeSwapper('recacar')); // FALSE
+console.log(palindromeSwapper('recacaer')); // FALSE
